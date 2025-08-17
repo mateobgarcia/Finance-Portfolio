@@ -1,4 +1,4 @@
-# Finance-Portfolio
+# Finance Portfolio
 Economics and Finance student, currently developing expertise in macroeconomics, credit risk, and quantitative finance. This portfolio is organized into three sections: Macroeconomic Analysis, Finance Projects, and Credit Analysis. Artificial Intelligence section will be included after project completition.
 
 This portfolio is organized into three sections:
